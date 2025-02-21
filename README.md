@@ -1,6 +1,16 @@
 ![App Screenshot](https://i.imgur.com/dl9Eboz.png)  
   # Open Source Pump.fun Bump Bot & Volume Generator (Multi-Wallet Support)💊  
-  An easy to use Node.js App to create Volume or Bump on any Pump.fun token. Complete Control on your PC. Supports Windows, Mac & Linux
+  An easy to use Node.js App to generate Volume or Bump on any Pump.fun token using multiple wallets. Supports Windows, Mac & Linux.
+  
+## Features✨  
+- 🟢Fully Open Source and Free to Use
+- 📦Less dependencies
+- 📈Multi-Wallet Volume/Bump Trade Generation
+- 💵Auto send sol before low executable balance, without interupting trades   
+- 🔄One Command Recover Solana from Multi-Wallets
+- 🚫No Token Registration Fees needed 
+- 🤏Cheapest in execution 
+
   ## Get Started 🚀  
   To get started, follow the steps below.
   1) install [node.js](https://nodejs.org/en) on your system .
