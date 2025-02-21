@@ -1,4 +1,4 @@
-
+![App Screenshot](https://i.imgur.com/dl9Eboz.png)  
   # Open Source Pump.fun Bump Bot & Volume Generator (Multi-Wallet Support)💊  
   An easy to use Node.js App to create Volume or Bump on any Pump.fun token. Complete Control on your PC. Supports Windows, Mac & Linux
   ## Get Started 🚀  
