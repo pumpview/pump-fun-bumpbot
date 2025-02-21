@@ -1,0 +1,18 @@
+{
+  "name": "pump-fun-bumpbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node commands/start-bot.js",
+    "recover": "node commands/recover-sol.js"
+  },
+  "keywords": ["pumpdotfun", "solana", "bumpbot", "pumpfun","volumebot"],
+  "author": "onweb3",
+  "license": "ISC",
+  "description": "  Open Source Pump.fun Bump Bot & Volume Generator (Multi-Wallet Support)💊  -An easy to use Node.js App to create Volume or Bump on any Pump.fun token. Complete Control on your PC. Supports Windows, Mac & Linux",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@solana/web3.js": "^1.98.0"
+  }
+}
