@@ -10,7 +10,7 @@ export const tokenMintAddress='CXVUmsyrwLBeWHfNPQKcZko96RoTe52HC41bjmRjzocK';
 //This is the rpc url that will be used to send transaction.
 //Devnet is available for test purposes. 
 //use mainnet rpc for live volume generation. use paid rpc url for better performance
-export const rpcUrl='https://api.devnet.solana.com';
+export const rpcUrl='https://api.mainnet-beta.solana.com';
 
 
 //How many wallets are you going to use to generate volume?. remember , volume booster wallets will not have any tokens left after each trade

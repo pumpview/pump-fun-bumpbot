@@ -11,6 +11,7 @@
    - 🚫No Token Registration Fees needed 
    - 🤏Cheapest in execution 
 
+[![Watch the video](https://i.imgur.com/zVmQJkO.gif)](https://vimeo.com/1059188108?share=copy)
 
 
   ## Get Started 🚀  
